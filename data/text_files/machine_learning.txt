@@ -1,0 +1,101 @@
+Machine Learning
+
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that
+enables computers to learn from data and improve performance without
+being explicitly programmed for every task.
+
+Instead of following fixed instructions, machine learning systems
+identify patterns in data and use those patterns to make predictions or
+decisions.
+
+How Machine Learning Works
+
+The general process includes:
+
+1.  Collect Data
+2.  Clean and Prepare Data
+3.  Select Features
+4.  Train a Model
+5.  Evaluate Performance
+6.  Deploy the Model
+7.  Monitor and Improve
+
+Types of Machine Learning
+
+Supervised Learning
+
+In supervised learning, the model learns from labeled examples.
+
+Examples: - Predicting house prices - Email spam detection - Image
+classification
+
+Common algorithms: - Linear Regression - Logistic Regression - Decision
+Trees - Random Forests
+
+Unsupervised Learning
+
+In unsupervised learning, the model works with unlabeled data.
+
+Examples: - Customer segmentation - Market basket analysis - Anomaly
+detection
+
+Common algorithms: - K-Means Clustering - Hierarchical Clustering -
+Principal Component Analysis
+
+Reinforcement Learning
+
+An agent learns by interacting with an environment and receiving rewards
+or penalties.
+
+Applications: - Robotics - Autonomous vehicles - Game-playing systems
+
+Important Concepts
+
+Features
+
+Input variables used for training.
+
+Labels
+
+Expected outputs for supervised learning.
+
+Training Data
+
+Data used to teach the model.
+
+Test Data
+
+Data used to evaluate performance.
+
+Overfitting
+
+When a model memorizes training data and performs poorly on new data.
+
+Underfitting
+
+When a model is too simple and fails to capture patterns.
+
+Applications of Machine Learning
+
+-   Recommendation systems
+-   Fraud detection
+-   Medical diagnosis
+-   Image recognition
+-   Speech recognition
+-   Natural language processing
+-   Financial forecasting
+
+Popular Tools and Libraries
+
+Python is the most popular language for machine learning.
+
+Key libraries: - NumPy - Pandas - Scikit-learn - TensorFlow - PyTorch -
+XGBoost
+
+Future of Machine Learning
+
+Machine learning is transforming industries by enabling data-driven
+decision making and intelligent automation. As datasets grow and
+computing power increases, machine learning will continue to play a
+critical role in healthcare, finance, transportation, education, and
+many other fields.
